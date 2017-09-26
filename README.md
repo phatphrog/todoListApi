@@ -3,6 +3,12 @@ todoList/ contains the Angular frontent and Angular CLI for the todolist app
 
 todoListApi/ contains the node.js backend RESTful API
 
+Firstly, make sure node and npm are installed on your system.
+You also want MongoDB installed.
+
+Navigate to todoListApi/ and run $ npm install to install the REST API dependencies
+Do the same for the Angular frontend in todoList/
+
 to run:
 
 1. start up the MongoDB with $ mongod
